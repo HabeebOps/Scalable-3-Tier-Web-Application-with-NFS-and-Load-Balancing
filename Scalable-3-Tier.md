@@ -542,7 +542,7 @@ Copy the public ip address of each webserver and paste it in your broswer with /
 
 ![](Images/Webserver1%20works.png)
 ![](Images/Webserver2%20works.png)
-![](images/Webserver3%20works.png)
+![](Images/Webserver3%20works.png)
 
 ## SET UP A LOAD BALANCER SOLUTION 
 
